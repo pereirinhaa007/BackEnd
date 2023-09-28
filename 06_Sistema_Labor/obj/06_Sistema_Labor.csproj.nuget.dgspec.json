@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\2º Semestre\\Back-End\\06_Sistema_Labor\\06_Sistema_Labor.csproj": {}
+    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\2º Semestre\\Back-End\\06_Sistema_Labor\\06_Sistema_Labor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\2º Semestre\\Back-End\\06_Sistema_Labor\\06_Sistema_Labor.csproj": {
+    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\2º Semestre\\Back-End\\06_Sistema_Labor\\06_Sistema_Labor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\2º Semestre\\Back-End\\06_Sistema_Labor\\06_Sistema_Labor.csproj",
+        "projectUniqueName": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\2º Semestre\\Back-End\\06_Sistema_Labor\\06_Sistema_Labor.csproj",
         "projectName": "06_Sistema_Labor",
-        "projectPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\2º Semestre\\Back-End\\06_Sistema_Labor\\06_Sistema_Labor.csproj",
+        "projectPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\2º Semestre\\Back-End\\06_Sistema_Labor\\06_Sistema_Labor.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\2º Semestre\\Back-End\\06_Sistema_Labor\\obj\\",
+        "outputPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\2º Semestre\\Back-End\\06_Sistema_Labor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
